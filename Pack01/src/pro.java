@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class pro {
+	int cal(int n, int n1) {
+		return 0;
+	}
 	public static void main(String[] args) {
 		int sum;
 		int sub;
